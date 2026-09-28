@@ -1,0 +1,123 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "368fa3864a679181e74d44d5",
+  "owner": "xkrdrqttsd",
+  "repo": "page-3db0f73b76105cf0efe95919",
+  "title": "44F网络",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3db0f73b76105cf0efe95919",
+      "a": "44F网络",
+      "b": "",
+      "entity": "44F网络",
+      "brand": "44F网络",
+      "separator": "",
+      "path": "index.html",
+      "hash": "4b007a8139c73e64994f183edd6ab107ca2f7b2591f72a553a0015cb7ebd3af2",
+      "content": {
+        "keyword1": "44F网络",
+        "keyword2": "",
+        "primary_entity": "44F网络",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "44F网络提供专业VPN加速服务，稳定高速线路，支持多设备在线，解锁流媒体。查看套餐信息及客户端下载。",
+          "AI_DESCRIPTION": "44F网络提供专业VPN加速服务，稳定高速线路，支持多设备在线，解锁流媒体。查看套餐信息及客户端下载。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        :root {\n            --coral: #e07a5f;\n            --warm-white: #f8f5f0;\n            --dark: #2c3e50;\n        }\n        * {\n            box-sizing: border-box;\n        }\n        body {\n            font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;\n            background-color: var(--warm-white);\n            color: var(--dark);\n            line-height: 1.6;\n            margin: 0;\n            padding: 0;\n        }\n        header {\n            background: white;\n            box-shadow: 0 2px 10px rgba(0,0,0,0.1);\n            position: sticky;\n            top: 0;\n            z-index: 10;\n        }\n        nav {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 1rem;\n            display: flex;\n            justify-content: space-between;\n            align-items: center;\n        }\n        .logo {\n            font-size: 1.5rem;\n            font-weight: bold;\n            color: var(--coral);\n        }\n        .nav-links a {\n            margin-left: 2rem;\n            text-decoration: none;\n            color: var(--dark);\n            font-weight: 500;\n        }\n        main {\n            max-width: 1200px;\n            margin: 0 auto;\n            padding: 2rem 1rem;\n        }\n        h1 {\n            font-size: 2.5rem;\n            color: var(--dark);\n            text-align: center;\n            margin-bottom: 2rem;\n        }\n        .intro {\n            text-align: center;\n            max-width: 800px;\n            margin: 0 auto 3rem;\n            font-size: 1.1rem;\n        }\n        section {\n            margin-bottom: 3rem;\n        }\n        h2 {\n            font-size: 1.8rem;\n            color: var(--dark);\n            margin-bottom: 1.5rem;\n            border-bottom: 2px solid var(--coral);\n            padding-bottom: 0.5rem;\n        }\n        .steps {\n            display: flex;\n            flex-direction: column;\n            gap: 1.5rem;\n        }\n        .step {\n            position: relative;\n            padding-left: 3rem;\n        }\n        .step-num {\n            position: absolute;\n            left: 0;\n            top: 0;\n            width: 2rem;\n            height: 2rem;\n            background: var(--coral);\n            color: white;\n            display: flex;\n            align-items: center;\n            justify-content: center;\n            border-radius: 50%;\n            font-weight: bold;\n        }\n        .step p {\n            margin: 0;\n            font-size: 1.1rem;\n        }\n        .plans-grid {\n            display: grid;\n            grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));\n            gap: 1.5rem;\n        }\n        .plan-card {\n            background: white;\n            border-radius: 12px;\n            padding: 1.5rem;\n            box-shadow: 0 4px 15px rgba(0,0,0,0.05);\n            border: 3px solid transparent;\n        }\n        .plan-card.featured {\n            border-color: var(--coral);\n            transform: scale(1.05);\n        }\n        .plan-card h3 {\n            font-size: 1.3rem;\n            margin: 0 0 1rem;\n            color: var(--dark);\n        }\n        .plan-card .price {\n            font-size: 1.8rem;\n            font-weight: bold;\n            color: var(--coral);\n            margin: 1rem 0;\n        }\n        .plan-card ul {\n            list-style: none;\n            padding: 0;\n        }\n        .plan-card li {\n            padding: 0.5rem 0;\n            font-size: 1rem;\n        }\n        .faq {\n            display: flex;\n            flex-direction: column;\n            gap: 1rem;\n        }\n        details {\n            background: white;\n            border-radius: 8px;\n            padding: 1rem;\n            box-shadow: 0 2px 8px rgba(0,0,0,0.05);\n        }\n        summary {\n            font-weight: 600;\n            cursor: pointer;\n            color: var(--dark);\n            font-size: 1.1rem;\n        }\n        summary::-webkit-details-marker {\n            display: none;\n        }\n        footer {\n            background: #2c3e50;\n            color: white;\n            padding: 2rem 0;\n            text-align: center;\n        }\n        .footer-links a {\n            color: #e07a5f;\n            margin: 0 1rem;\n            text-decoration: none;\n        }\n        @media (max-width: 768px) {\n            h1 {\n                font-size: 2rem;\n            }\n            .nav-links a {\n                margin-left: 1rem;\n            }\n            main {\n                padding: 1.5rem 1rem;\n            }\n        }\n    </style>\n\n\n    <header>\n        <nav>\n            <div class=\"logo\">44F网络</div>\n            <div class=\"nav-links\">\n                <a href=\"#use-cases\">使用场景</a>\n                <a href=\"#steps\">操作步骤</a>\n                <a href=\"#plans\">套餐选择</a>\n                <a href=\"#faq\">常见问题</a>\n            </div>\n        </nav>\n    </header>\n    <main>\n        <h1>44F网络</h1>\n        <div class=\"intro\">\n            <p>44F网络是一款专业的VPN加速器，提供稳定高速的网络服务，帮助用户实现高效的网络连接与内容解锁。</p>\n        </div>\n        <section id=\"use-cases\">\n            <h2>使用场景</h2>\n            <ul>\n                <li>日常上网加速</li>\n                <li>游戏场景加速</li>\n                <li>流媒体内容解锁</li>\n                <li>团队协作支持</li>\n            </ul>\n        </section>\n        <section id=\"steps\">\n            <h2>操作步骤</h2>\n            <div class=\"steps\">\n                <div class=\"step\">\n                    <div class=\"step-num\">1</div>\n                    <p>选择适合您的套餐</p>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-num\">2</div>\n                    <p>连接到加速线路</p>\n                </div>\n                <div class=\"step\">\n                    <div class=\"step-num\">3</div>\n                    <p>享受稳定高速网络</p>\n                </div>\n            </div>\n            <p>操作步骤简洁高效，助力您快速上手网络加速</p>\n        </section>\n        <section id=\"plans\">\n            <h2>选择您的套餐</h2>\n            {{PLANS_HTML}}\n        </section>\n        <section id=\"faq\">\n            <h2>常见问题</h2>\n            <div class=\"faq\">\n                <details>\n                    <summary>44F网络支持设备数量吗？</summary>\n                    <p>是的，不同套餐支持多台设备同时在线。</p>\n                </details>\n                <details>\n                    <summary>44F网络如何提供网络加速？</summary>\n                    <p>通过优化线路和节点池，提供稳定高速的加速服务。</p>\n                </details>\n                <details>\n                    <summary>44F网络适合哪些用户？</summary>\n                    <p>基础版适合个人用户，旗舰版提供高级功能，团队版适合企业用户。</p>\n                </details>\n                <details>\n                    <summary>44F网络提供流媒体解锁吗？</summary>\n                    <p>旗舰版及以上套餐支持全节点原生流媒体解锁。</p>\n                </details>\n                <details>\n                    <summary>如何选择适合的套餐？</summary>\n                    <p>根据您的流量需求、设备数量和使用场景选择对应套餐。</p>\n                </details>\n            </div>\n        </section>\n        {{CLIENTS_HTML}}\n    </main>\n    <footer>\n        <div class=\"footer-links\">\n            <a href=\"#use-cases\">使用场景</a>\n            <a href=\"#steps\">操作步骤</a>\n            <a href=\"#plans\">套餐选择</a>\n            <a href=\"#faq\">常见问题</a>\n        </div>\n        <p>© 44F网络 所有权利保留</p>\n    </footer>\n\n",
+          "hash": "6e8ae1f6826a7ee2232d2d4b80aaa622ed0c02cc9259043b3784dde145c83a90",
+          "seo": {
+            "title": "44F网络 - 高速VPN加速器 | 客户端下载",
+            "keywords": "44F网络, VPN加速器, 网络加速, 客户端下载, 机场订阅",
+            "description": "44F网络提供专业VPN加速服务，稳定高速线路，支持多设备在线，解锁流媒体。查看套餐信息及客户端下载。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tmndpg.cn",
+    "host": "b.tmndpg.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804"
+  },
+  "friendlinks": [
+    {
+      "host": "tmndpg.cn",
+      "url": "https://tmndpg.cn/",
+      "label": "少数派",
+      "apex": "tmndpg.cn",
+      "kind": null,
+      "identity": "feaucgxrkrt/page-e0d747bcff009e5d79254dbb"
+    },
+    {
+      "host": "00ah6.cn",
+      "url": "https://00ah6.cn/",
+      "label": "SSHUB",
+      "apex": "00ah6.cn",
+      "kind": null,
+      "identity": "erjwrgjj/page-6141714b7a0f264666643c94"
+    },
+    {
+      "host": "01kmph.cn",
+      "url": "https://01kmph.cn/",
+      "label": "WeGo",
+      "apex": "01kmph.cn",
+      "kind": null,
+      "identity": "wbwftxwku/page-680ee6fa2562d6d22ba5a121"
+    }
+  ],
+  "file_hashes": {
+    "index.html": "6d66344c7622e4f8f93dd4fc47d38f71d118de89e31ec821049c563ccc916ffb",
+    "sitemap.xml": "8136f7b752ccda0aaad858592283d53d9cffe298fe02ac8b68613b696549bfe4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "b9f736481ffa089b282a3cb2228c9ff65bac4d05b4c3dddb53fe62cdf3e5ef9c",
+    "robots.txt": "2715ebcb7ea91ddbfd0f25747e636259764760a4f965835a09a154af6b8ca117",
+    "553e3039f702df6a168450bc2b3b131f.txt": "dd682d8b361cc8d13361b128728b2850d6d9971c55f721b8627a9b768f73371f"
+  },
+  "revision": "64cd7d4a467716826452400040b0e66630705625ab74cbe9e52e794bf90e6cce"
+}
